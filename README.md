@@ -3,7 +3,7 @@
 Website - https://stockmarketview.herokuapp.com/
 Web app for Stock Market built using dash and plotly in Python.
 
-Features:
+## Features:
 
 plot NSE and BSE stocks for any time period and interval
 plot engulfing patterns
